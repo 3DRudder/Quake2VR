@@ -7,7 +7,7 @@
 * Forward/Backward
 * Rotation left/right
 
-## Download Release : [Quake2VR3dRudder-2.0.0-full.zip](https://github.com/3DRudder/Quake2VR/releases/latest)
+## Download Release : [Quake2VR3dRudder-full.zip](https://github.com/3DRudder/Quake2VR/releases/latest)
 
 ## Or follow this instructions
 * Project base : https://github.com/q2vr/quake2vr/tree/libovr-1.xx
