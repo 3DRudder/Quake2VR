@@ -1,5 +1,7 @@
 # 3dRudder Quake2VR for Oculus Rift
 
+![logo](3dR_Logo.png)
+
 ## Instructions
 * Project base : https://github.com/q2vr/quake2vr/tree/libovr-1.xx
   * Download Release 'Quake2VR-2.0.0-bin.zip'(https://github.com/q2vr/quake2vr/releases/tag/v2.0.0a) unzip it to your preferred directory
@@ -23,3 +25,5 @@ If your Oculus Rift is connected and powered on it will enable support automatic
     * Virtual Reality -> Aim Mode -> select decoupled view/aiming
     * Virtual Reality ->Confort turning -> select disabled     
   
+
+![Screen](Screen.png)
