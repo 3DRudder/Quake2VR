@@ -7,6 +7,9 @@
 * Forward/Backward
 * Rotation left/right
 
+## Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/It5Wn3COXZY" frameborder="0" allowfullscreen></iframe>
+
 ## Download Release : [Quake2VR3dRudder-full.zip](https://github.com/3DRudder/Quake2VR/releases/latest)
 
 ## Or follow this instructions
